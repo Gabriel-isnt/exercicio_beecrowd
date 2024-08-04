@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define STANDARD_SIZE 50000
+#define STANDARD_SIZE 1000
 
 void inverterArray(char *inverter);
 
